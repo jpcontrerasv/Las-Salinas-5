@@ -1,13 +1,3 @@
-$(document).ready(function() {
-    $('body').fadeIn();
-});
-
-$(window).load(function(){
-  $('#slider-home').flexslider({
-	animation: "slide",
-	controlNav: false, 
-  });
-});
 
 
 var ww = document.body.clientWidth;
@@ -58,5 +48,13 @@ var adjustMenu = function() {
 	}
 }
 
+$(window).load(function(){
+  $('#slider-home').flexslider({
+	animation: "slide",
+	controlNav: false, 
+  });
+  
+  
+});
 
 

@@ -2,6 +2,15 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "18493",
 "files": {
+	"\/comunidad.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/comunidad.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/config.rb": {
 		"fileType": 131072,
 		"ignore": 0,
@@ -110,7 +119,7 @@
 		"outputAbbreviatedPath": "\/img\/arturo-natho.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/bg_play_pause.png": {
 		"fileType": 32768,
@@ -121,7 +130,29 @@
 		"outputAbbreviatedPath": "\/img\/bg_play_pause.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/img\/detalle-head-comunidad.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 158352,
+		"inputAbbreviatedPath": "\/img\/detalle-head-comunidad.jpg",
+		"outputAbbreviatedPath": "\/img\/detalle-head-comunidad.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/detalle.comunidad-2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 327591,
+		"inputAbbreviatedPath": "\/img\/detalle.comunidad-2.jpg",
+		"outputAbbreviatedPath": "\/img\/detalle.comunidad-2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/img\/downArrow.png": {
 		"fileType": 32768,
@@ -132,7 +163,7 @@
 		"outputAbbreviatedPath": "\/img\/downArrow.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/footer-home.jpg": {
 		"fileType": 16384,
@@ -143,7 +174,7 @@
 		"outputAbbreviatedPath": "\/img\/footer-home.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/footer-telefono.png": {
 		"fileType": 32768,
@@ -154,7 +185,7 @@
 		"outputAbbreviatedPath": "\/img\/footer-telefono.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/gota-1.png": {
 		"fileType": 32768,
@@ -165,7 +196,7 @@
 		"outputAbbreviatedPath": "\/img\/gota-1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/head-equipo.jpg": {
 		"fileType": 16384,
@@ -176,7 +207,7 @@
 		"outputAbbreviatedPath": "\/img\/head-equipo.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/hoja-png.png": {
 		"fileType": 32768,
@@ -187,7 +218,7 @@
 		"outputAbbreviatedPath": "\/img\/hoja-png.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/ico-d.png": {
 		"fileType": 32768,
@@ -198,7 +229,7 @@
 		"outputAbbreviatedPath": "\/img\/ico-d.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/ico-t.png": {
 		"fileType": 32768,
@@ -209,7 +240,7 @@
 		"outputAbbreviatedPath": "\/img\/ico-t.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/img-equpo-head-2.jpg": {
 		"fileType": 16384,
@@ -220,7 +251,7 @@
 		"outputAbbreviatedPath": "\/img\/img-equpo-head-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/img-mision.jpg": {
 		"fileType": 16384,
@@ -231,7 +262,7 @@
 		"outputAbbreviatedPath": "\/img\/img-mision.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/img-slide-1.jpg": {
 		"fileType": 16384,
@@ -242,7 +273,7 @@
 		"outputAbbreviatedPath": "\/img\/img-slide-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/img-vision.jpg": {
 		"fileType": 16384,
@@ -253,7 +284,7 @@
 		"outputAbbreviatedPath": "\/img\/img-vision.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/kitchen_adventurer_caramel.jpg": {
 		"fileType": 16384,
@@ -264,7 +295,7 @@
 		"outputAbbreviatedPath": "\/img\/kitchen_adventurer_caramel.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/kitchen_adventurer_cheesecake_brownie.jpg": {
 		"fileType": 16384,
@@ -275,7 +306,7 @@
 		"outputAbbreviatedPath": "\/img\/kitchen_adventurer_cheesecake_brownie.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/kitchen_adventurer_donut.jpg": {
 		"fileType": 16384,
@@ -286,7 +317,7 @@
 		"outputAbbreviatedPath": "\/img\/kitchen_adventurer_donut.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/kitchen_adventurer_lemon.jpg": {
 		"fileType": 16384,
@@ -297,7 +328,7 @@
 		"outputAbbreviatedPath": "\/img\/kitchen_adventurer_lemon.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/logo.png": {
 		"fileType": 32768,
@@ -308,7 +339,7 @@
 		"outputAbbreviatedPath": "\/img\/logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/poster-falso.jpg": {
 		"fileType": 16384,
@@ -319,7 +350,7 @@
 		"outputAbbreviatedPath": "\/img\/poster-falso.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/poster-falso.png": {
 		"fileType": 32768,
@@ -330,7 +361,7 @@
 		"outputAbbreviatedPath": "\/img\/poster-falso.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/poster-video.jpg": {
 		"fileType": 16384,
@@ -341,7 +372,7 @@
 		"outputAbbreviatedPath": "\/img\/poster-video.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/separador-gris.jpg": {
 		"fileType": 16384,
@@ -352,7 +383,7 @@
 		"outputAbbreviatedPath": "\/img\/separador-gris.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/separador-mision.jpg": {
 		"fileType": 16384,
@@ -363,7 +394,7 @@
 		"outputAbbreviatedPath": "\/img\/separador-mision.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/upArrow.png": {
 		"fileType": 32768,
@@ -374,7 +405,7 @@
 		"outputAbbreviatedPath": "\/img\/upArrow.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/index.php": {
 		"fileType": 8192,
@@ -476,6 +507,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/mision-vision.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/plan-maestro.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/plan-maestro.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

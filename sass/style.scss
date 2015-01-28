@@ -1,5 +1,13 @@
 /*Reset JP*/
+#loader {
+	position:fixed;
+	width:100%;
+	height:100%;
+	z-index:10000;
+	background:#000;
+}
 /*Fuentes*/
+
 $em-1: 1em;
 $em-2: 2em;
 $em-3: 3em;
@@ -365,7 +373,38 @@ header {
 		}
 	}
 }
+#plan-maestro {
+	.head-plan-maestro {
+		padding:76px 0;
+		background:url(../img/head-plan-maestro.jpg) center center no-repeat;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+		margin-bottom:50px;
+		
+		.h1 {
+			height:281px;
+			width:281px;
+			padding:114px 50px;
+			color:#FFF;
+			margin-right:7%;
 
+			background:url(../img/line-top.gif) 22% 30% no-repeat rgba(0,0,0,.5);
+			
+		}
+	}
+	
+	.txt-gen {
+		padding-top:40px;
+		background:url(../img/line-top-inv.gif) 1.6% 0 no-repeat;
+		p {
+			color:$gris-claro-2;
+		}
+		
+	}
+}
+/*plan maestro*/
 #content-equipo {
 	.h1 {
 		text-transform:none;
