@@ -7,7 +7,7 @@
     <title>Las Salinas</title>
 
     <!-- Bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.css" rel="stylesheet">
     <link href="style.css" rel="stylesheet">
     <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
     <link href="css/font-awesome.min.css" rel="stylesheet">

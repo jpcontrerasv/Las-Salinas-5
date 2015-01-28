@@ -1,3 +1,7 @@
+$(document).ready(function() {
+    $('body').fadeIn();
+});
+
 $(window).load(function(){
   $('#slider-home').flexslider({
 	animation: "slide",
