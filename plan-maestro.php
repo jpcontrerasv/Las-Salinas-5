@@ -18,15 +18,34 @@
             </div>
         </div>
         <!--container-fake-->
+        <div class="clearfix"></div>
         
     	<div class="container-fake">
-        	<div class="col-lg-4 col-md-4 col-sm-4 col-xs-6 no-column caja-hover">
-            	<div class="table">
-            		<a href="#" class="table-cell"></a>
+				<div class="grid">
+					<figure class="effect-oscar effect-oscar-1 col-lg-4 col-md-6 col-sm-6 col-xs-12">
+						<figcaption>
+							<h2>Conceptos Centrales <span> del Plan Maestro</span></h2>
+							<p><i class="fa fa-lightbulb-o fa-3x"></i></p>
+						</figcaption>			
+					</figure>
+					<figure class="effect-oscar effect-oscar-1 col-lg-4 col-md-6 col-sm-6 col-xs-12">
+						
+						<figcaption>
+							<h2>Warm <span>Oscar</span></h2>
+							<p>Oscar is a decent man. He used to clean porches with pleasure.</p>
+							<a href="#">View more</a>
+						</figcaption>			
+					</figure>
+					<figure class="effect-oscar effect-oscar-1 col-lg-4 col-md-6 col-sm-6 col-xs-12">
+						
+						<figcaption>
+							<h2>Warm <span>Oscar</span></h2>
+							<p>Oscar is a decent man. He used to clean porches with pleasure.</p>
+							<a href="#">View more</a>
+						</figcaption>			
+					</figure>
                     
-                </div>
-            </div>
-            
+				</div>
         </div>
         
     </section>

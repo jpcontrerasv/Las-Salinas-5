@@ -1,7 +1,8 @@
 <?php include 'header.php'; ?>
     <section id="medamb" class="container">
 		<div id="video" class="col-lg-8 col-md-8 col-sm-12 col-xs-12 no-column">
-            <video poster="img/poster-falso.png" controls>
+        	<span class="punta punta-der"></span>
+            <video preload="none" controls>
                 <source src="img/video/ambiental.mp4" type="video/mp4">
                 <source src="img/video/ambiental.ogv" type="video/ogg">
                 <source src="img/video/ambiental.webm" type="video/webm">
@@ -21,7 +22,8 @@
         </div>
         
         <div class="clearfix"></div>
-        
+     </section>
+     <section class="container-fake">
         <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12 no-column txt-gen">
         	<div class="h1">Nuestra Visión</div>
             <p>Para que los terrenos de Las Salinas estuviesen en condiciones de integrarse a la trama urbana de la ciudad, se debió realizar previamente un exhaustivo proceso de remediación ambiental.</p>

@@ -95,6 +95,7 @@ html[xmlns] .slides {
 *height: 0;
 }
 .flex-direction-nav a {
+	
 	text-decoration: none;
 	display: block;
 	width: 40px;
@@ -106,7 +107,7 @@ html[xmlns] .slides {
 	overflow: hidden;
 	opacity: 0;
 	cursor: pointer;
-	color: rgba(0,0,0,0.8);
+	color: rgba(255,255,255,1);
 	text-shadow: 1px 1px 0 rgba(255,255,255,0.3);
 	-webkit-transition: all .3s ease;
 	-moz-transition: all .3s ease;
@@ -114,18 +115,20 @@ html[xmlns] .slides {
 }
 .flex-direction-nav .flex-prev {
 	left: 0;
+	text-shadow: 1px 1px 6px rgba(0, 0, 0, 1);
 }
 .flex-direction-nav .flex-next {
+	text-shadow: 1px 1px 6px rgba(0, 0, 0, 1);
 	right: 0;
 	text-align: right;
 }
 .flexslider:hover .flex-prev {
-	opacity: 0.7;
-	left: 10px;
+	opacity: 1;
+	left: 3%;
 }
 .flexslider:hover .flex-next {
-	opacity: 0.7;
-	right: 10px;
+	opacity: 1;
+	right: 3%;
 }
 .flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover {
 	opacity: 1;

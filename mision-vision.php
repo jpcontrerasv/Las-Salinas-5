@@ -1,5 +1,5 @@
 <?php include 'header.php'; ?>
-    <section id="main" class="container no-column">
+    <section id="main" class="container-fake no-column">
     	<section id="mision" class="container-fluid no-column">
         	<div class="img col-lg-8 col-md-8 col-sm-12 col-xs-12 no-column">
             	<img src="img/img-mision.jpg" alt="">

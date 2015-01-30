@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
     <link href="css/font-awesome.min.css" rel="stylesheet">
     <link href="css/menu.css" rel="stylesheet">
+    <link href="css/animate.css" rel="stylesheet">
     <link href="style.css" rel="stylesheet">
     
 
@@ -25,9 +26,9 @@
     <script>try{Typekit.load();}catch(e){}</script>
   </head>
   <body>
-  
-  	<header class="container no-column">
-    	<span class="gota"></span>
+  	<?php /*?><div class="pixeles"></div><?php */?>
+  	<header class="container-fake no-column">
+    	<span class="gota animated fadeInDown"></span>
     	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
             
         <a class="toggleMenu" href="#">Menu <i class="fa fa-bars"></i></a>
@@ -35,18 +36,18 @@
             <li  class="test">
                 <a href="#">La Empresa</a>
                 <ul>
-                    <li><a href="#">Misión / Visión</a></li>
+                    <li><a href="mision-vision.php">Misión / Visión</a></li>
                     <li><a href="#">Nosotros</a></li>
-                    <li><a href="#">Equipo</a></li>
+                    <li><a href="equipo.php">Equipo</a></li>
                     <li><a href="#">Historia</a></li>
                 </ul>
             </li>
             <li>
                 <a href="#">Proyecto</a>
                 <ul>
-                    <li><a href="#">Plan Maestro</a></li>
-                    <li><a href="#">Tema ambiental</a></li>
-                    <li><a href="#">Comunidades</a></li>
+                    <li><a href="plan-maestro.php">Plan Maestro</a></li>
+                    <li><a href="medioambiente.php">Tema ambiental</a></li>
+                    <li><a href="comunidad.php">Comunidades</a></li>
                 </ul>
             </li>
             <li><a href="#">Blog</a></li>
@@ -56,7 +57,8 @@
                     
         </div>
         <div class="clearfix"></div>
+        
         <div id="logo-head" class="col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center">
-        	<img src="img/logo-ls.svg" alt="">
+        	<a href="index.php"><img src="img/logo-ls.svg" alt="" class="animated fadeIn"></a>
         </div>
     </header>
