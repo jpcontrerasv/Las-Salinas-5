@@ -416,7 +416,7 @@ header {
 	}
 }
 
-#content-equipo {
+#content-equipo, #content-equipo-2 {
 	margin-bottom:135px;
 	
 	.h1 {
@@ -798,6 +798,293 @@ span.punta-der {
 	}
 }
 
+/*Hisotira*/
+#historia {
+	.head-historia {
+		padding:76px 0;
+		background:url(img/head-historia.jpg) center center no-repeat;
+		@include cover;
+		margin-bottom:50px;
+		
+		.h1 {
+			height:281px;
+			width:281px;
+			padding:131px 0 0 50px;
+			color:#FFF;
+			margin-right:7%;
+
+			background:url(img/line-top.gif) 22% 43% no-repeat rgba(0,0,0,.5);
+			
+		}
+	}
+}
+/*Content historia*/
+#content-historia {
+	.historia-1 {
+		height:668px;
+			@media (max-width: 480px) {
+				height:516px;
+			}
+			@media only screen and (max-device-width: 480px) {
+				height:516px;
+			}
+		.img-1, .img-2 {
+			height:100%;
+		}
+		.img-1 {
+			background:url(img/gotas-historia-1.jpg) center bottom no-repeat;
+			@include cover;
+		}
+		.img-2 {
+			background:url(img/img-historia-1.jpg) center bottom no-repeat;
+			@include cover;
+		}
+		.txt {
+			height:100%;			
+			color:#FFF;
+			.h1 {
+				margin-top:0;
+				h1 {
+					text-transform:none;
+					font-weight:600;
+				}
+			}
+			.img {
+				background:url(img/img-historia-2.jpg) center center no-repeat;
+				@include cover;
+				height:50%;
+			}
+			.texto {
+				background:#c6c6c6;
+				padding:10%;
+				height:48%;
+				margin-bottom:5%;
+			}
+		}
+	}
+	//historia-1
+	
+	.historia-2 {
+		height:200px;
+		margin-bottom:20px;
+		.img-3, .img-4 {
+			height:100%;
+		}
+		.img-3 {
+			background:#FFF;
+		}
+		.img-4 {
+			background:#FFF;
+			position:relative;
+			overflow:visible;
+			.gota {
+				left: 31%;
+				top: -43px;
+				width:193px;
+				height:153px;
+				background:url(img/gotas-2.png) center center no-repeat;
+			}
+		}
+		.txt {
+			height:100%;			
+			color:#FFF;
+			.h1 {
+				margin-top:0;
+				margin-bottom:10px;
+				h1 {
+					text-transform:none;
+					font-size:$em-1 * 0.8;
+					font-weight:600;
+				}
+			}
+			.texto {
+				background:#FFF;
+				padding:7%;
+				height:100%;
+				p {
+					color:#575656;
+				}
+			}
+		}
+	}
+	//historia-2
+
+	.historia-3 {
+		height:350px;
+		
+			@media (max-width: 500px) {
+				height:500px;
+			}
+			@media only screen and (max-device-width: 500px) {
+				height:550px;
+			}
+		
+		.img-5, .img-6 {
+			height:100%;
+			-webkit-box-shadow: inset 0px 0px 0px 6px rgba(255, 255, 255, 1);
+			-moz-box-shadow:    inset 0px 0px 0px 6px rgba(255, 255, 255, 1);
+			box-shadow:         inset 0px 0px 0px 6px rgba(255, 255, 255, 1);
+		}
+		.img-5 {
+			background:url(img/plan-maestro-04.jpg) center center no-repeat;
+			@include cover;
+		}
+		.img-6 {
+			background:url(img/expansion-urbana.jpg) center center no-repeat;
+			@include cover;
+		}
+		.txt {
+			-webkit-box-shadow: inset 0px 0px 0px 6px rgba(255, 255, 255, 1);
+			-moz-box-shadow:    inset 0px 0px 0px 6px rgba(255, 255, 255, 1);
+			box-shadow:         inset 0px 0px 0px 6px rgba(255, 255, 255, 1);
+			height:100%;			
+			color:#FFF;
+			background:#c6c6c6;
+			padding:3%;
+			@media (max-width: 500px) {
+				padding:11%;
+			}
+			@media only screen and (max-device-width: 500px) {
+				padding:11%;
+			}
+			.h1 {
+				margin-top:0;
+				margin-bottom:10px;
+				h1 {
+					text-transform:none;
+					font-size:$em-1 * 0.8;
+					font-weight:600;
+				}
+			}
+		}
+	}
+	//historia-3
+
+	.historia-4 {
+		height:350px;
+		
+			@media (max-width: 500px) {
+				height:500px;
+			}
+			@media only screen and (max-device-width: 500px) {
+				height:550px;
+			}
+		
+		.img-7, .img-8 {
+			height:100%;
+			-webkit-box-shadow: inset 0px 0px 0px 6px rgba(255, 255, 255, 1);
+			-moz-box-shadow:    inset 0px 0px 0px 6px rgba(255, 255, 255, 1);
+			box-shadow:         inset 0px 0px 0px 6px rgba(255, 255, 255, 1);
+		}
+		.img-7 {
+			background:url(img/plan-maestro-04.jpg) center center no-repeat;
+			@include cover;
+		}
+		.img-8 {
+			background:url(img/expansion-urbana.jpg) center center no-repeat;
+			@include cover;
+		}
+		.txt {
+			-webkit-box-shadow: inset 0px 0px 0px 6px rgba(255, 255, 255, 1);
+			-moz-box-shadow:    inset 0px 0px 0px 6px rgba(255, 255, 255, 1);
+			box-shadow:         inset 0px 0px 0px 6px rgba(255, 255, 255, 1);
+			height:100%;			
+			color:#AAAAAA;
+			background:#FFF;
+			padding:1.9%;
+			@media (max-width: 500px) {
+				padding:2%;
+				height:60%;
+			}
+			@media only screen and (max-device-width: 500px) {
+				padding:2%;
+				height:60%;
+			}
+			.h1 {
+				margin-top:0;
+				margin-bottom:10px;
+				h1 {
+					text-transform:none;
+					font-size:$em-1 * 0.8;
+					font-weight:600;
+				}
+			}
+			
+		}
+		
+		#txt-2 {
+			@media (max-width: 768px) {
+				padding:2%;
+				height:68%!important;
+			}
+			@media only screen and (max-device-width: 768px) {
+				padding:2%;
+				height:68%!important;
+			}
+			@media only screen and (max-device-width: 480px) {
+				padding:2%;
+				height:59%!important;
+			}
+		}
+		
+	}
+	//historia-4
+
+	.historia-5	 {
+		height:350px;
+		
+		
+			@media (max-width: 500px) {
+				height:500px;
+			}
+			@media only screen and (max-device-width: 500px) {
+				height:550px;
+			}
+		
+		.img-9 {
+			background:url(img/img-historia-9.jpg) center center no-repeat;
+			@include cover;
+			height:100%;
+			-webkit-box-shadow: inset 0px 0px 0px 6px rgba(255, 255, 255, 1);
+			-moz-box-shadow:    inset 0px 0px 0px 6px rgba(255, 255, 255, 1);
+			box-shadow:         inset 0px 0px 0px 6px rgba(255, 255, 255, 1);
+		}
+		.txt {
+			-webkit-box-shadow: inset 0px 0px 0px 6px rgba(255, 255, 255, 1);
+			-moz-box-shadow:    inset 0px 0px 0px 6px rgba(255, 255, 255, 1);
+			box-shadow:         inset 0px 0px 0px 6px rgba(255, 255, 255, 1);
+			height:100%;			
+			color:#FFF;
+			background:#AAAAAA;
+			padding:1.9%;
+			@media (max-width: 768px) {
+				padding:4%;
+				height:68%;
+			}
+			@media only screen and (max-device-width: 768px) {
+				padding:4%;
+				height:68%;
+			}
+			@media only screen and (max-device-width: 480px) {
+				padding:8%;
+				height:62%;
+			}
+			.h1 {
+				margin-top:0;
+				margin-bottom:10px;
+				h1 {
+					text-transform:none;
+					font-size:$em-1 * 0.8;
+					font-weight:600;
+				}
+			}
+		}
+	}
+	//historia-4
+
+
+}
+//content historia
 
 footer {
 	.container-flex {
@@ -867,37 +1154,47 @@ footer {
 
 .grid {
 	position: relative;
-	width:100%;
-	border:1px solid;
-	margin-bottom:50px;
+	margin: 0 auto;
+	max-width: 100%;
 	list-style: none;
 	text-align: center;
-	float:left;
-	height:360px;
-		@media (max-width: 1200px) {
-			height:720px;			
-		}
-		@media only screen and (max-device-width: 1200px) {
-			height:720px;			
-		}
-		@media (max-width: 768px) {
-			height:1080px;			
-		}
-		@media only screen and (max-device-width: 768px) {
-			height:1080px;			
-		}
 }
-
 
 /* Common style */
 .grid figure {
 	position: relative;
 	float: left;
 	overflow: hidden;
+	margin: 0.1%;
+	min-width: 320px;
+	max-width: 480px;
 	max-height: 360px;
+	width: 32.3%;
+	background: #3085a3;
 	text-align: center;
 	cursor: pointer;
-	height:100%;
+	
+		@media (max-width: 756px) {
+			width:40%;			
+		}
+		@media only screen and (max-device-width: 756px) {
+			width:40%;			
+		}
+
+		@media (max-width: 760px) {
+			margin-left:22%;	
+		}
+		@media only screen and (max-device-width: 760px) {
+			margin-left:22%;			
+		}
+
+		@media (max-width: 480px) {
+			margin-left:8%;	
+		}
+		@media only screen and (max-device-width: 480px) {
+			margin-left:0%;
+			max-height: 300px;
+		}
 }
 
 .grid figure img {
@@ -941,14 +1238,6 @@ footer {
 	opacity: 0;
 }
 
-.grid figure h2 {
-	word-spacing: -0.15em;
-	font-weight: 300;
-}
-
-.grid figure h2 span {
-	font-weight: 800;
-}
 
 .grid figure h2,
 .grid figure p {
@@ -959,28 +1248,43 @@ footer {
 	letter-spacing: 1px;
 	font-size: 68.5%;
 }
-
 /*---------------*/
 /***** Oscar *****/
 /*---------------*/
 
 figure.effect-oscar {
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPHJhZGlhbEdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgY3g9IjUwJSIgY3k9IjUwJSIgcj0iNzUlIj4KICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwMDAwMDAiIHN0b3Atb3BhY2l0eT0iMC41Ii8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMDAwMDAiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvcmFkaWFsR3JhZGllbnQ+CiAgPHJlY3QgeD0iLTUwIiB5PSItNTAiIHdpZHRoPSIxMDEiIGhlaWdodD0iMTAxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
+
+background: -moz-radial-gradient(center, ellipse cover,  rgba(0,0,0,0.5) 0%, rgba(0,0,0,1) 100%); /* FF3.6+ */
+
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,rgba(0,0,0,0.5)), color-stop(100%,rgba(0,0,0,1))); /* Chrome,Safari4+ */
+
+background: -webkit-radial-gradient(center, ellipse cover,  rgba(0,0,0,0.5) 0%,rgba(0,0,0,1) 100%); /* Chrome10+,Safari5.1+ */
+
+background: -o-radial-gradient(center, ellipse cover,  rgba(0,0,0,0.5) 0%,rgba(0,0,0,1) 100%); /* Opera 12+ */
+
+background: -ms-radial-gradient(center, ellipse cover,  rgba(0,0,0,0.5) 0%,rgba(0,0,0,1) 100%); /* IE10+ */
+
+background: radial-gradient(ellipse at center,  rgba(0,0,0,0.5) 0%,rgba(0,0,0,1) 100%); /* W3C */
+
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#80000000', endColorstr='#000000',GradientType=1 ); /* IE6-8 fallback on horizontal gradient */
+
+
 }
 
 figure.effect-oscar img {
 	opacity: 0.9;
 	-webkit-transition: opacity 0.35s;
 	transition: opacity 0.35s;
-	width:100%;
-	height:auto;
-}
-figure.effect-oscar-1 {
-	background:url(img/9.jpg) center center;
-	@include cover;
 }
 
 figure.effect-oscar figcaption {
-	padding: 3em;
+	padding: 1%;
+	background-color: rgba(58,52,42,0.7);
+	-webkit-transition: background-color 0.35s;
+	transition: background-color 0.35s;
 }
 
 figure.effect-oscar figcaption::before {
@@ -993,12 +1297,27 @@ figure.effect-oscar figcaption::before {
 }
 
 figure.effect-oscar h2 {
-	margin: 0 0 10px 0;
+	margin: 20% 0 10px 0;
 	-webkit-transition: -webkit-transform 0.35s;
 	transition: transform 0.35s;
 	-webkit-transform: translate3d(0,100%,0);
 	transform: translate3d(0,100%,0);
+	font-size:$em-1 * 1.4;
+	font-weight:500;
+		@media (max-width: 1265px) {
+			font-size:$em-1 * 1.2;	
+		}
+		@media only screen and (max-device-width: 1265px) {
+			font-size:$em-1 * 1.2;			
+		}
 }
+figure.rol-integrador h2 {
+	margin: 29.3% 0 10px 0;	
+}
+figure.nuevo-barrio h2 {
+	margin: 29.3% 0 10px 0;	
+}
+
 
 figure.effect-oscar figcaption::before,
 figure.effect-oscar p {
@@ -1012,7 +1331,6 @@ figure.effect-oscar p {
 figure.effect-oscar:hover h2 {
 	-webkit-transform: translate3d(0,0,0);
 	transform: translate3d(0,0,0);
-	margin: 15% 0 10px 0;
 }
 
 figure.effect-oscar:hover figcaption::before,
@@ -1029,4 +1347,3 @@ figure.effect-oscar:hover figcaption {
 figure.effect-oscar:hover img {
 	opacity: 0.4;
 }
-

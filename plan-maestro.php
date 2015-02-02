@@ -21,29 +21,57 @@
         <div class="clearfix"></div>
         
     	<div class="container-fake">
+                
 				<div class="grid">
-					<figure class="effect-oscar effect-oscar-1 col-lg-4 col-md-6 col-sm-6 col-xs-12">
+					<figure class="effect-oscar">
+						<img src="img/plan-maestro-01.jpg" alt=""/>
 						<figcaption>
-							<h2>Conceptos Centrales <span> del Plan Maestro</span></h2>
-							<p><i class="fa fa-lightbulb-o fa-3x"></i></p>
-						</figcaption>			
-					</figure>
-					<figure class="effect-oscar effect-oscar-1 col-lg-4 col-md-6 col-sm-6 col-xs-12">
-						
-						<figcaption>
-							<h2>Warm <span>Oscar</span></h2>
-							<p>Oscar is a decent man. He used to clean porches with pleasure.</p>
+							<h2>Conceptos centrales del plan maestro</h2>
+							<p><i class="fa fa-lightbulb-o fa-4x"></i></p>
 							<a href="#">View more</a>
 						</figcaption>			
 					</figure>
-					<figure class="effect-oscar effect-oscar-1 col-lg-4 col-md-6 col-sm-6 col-xs-12">
-						
+					<figure class="effect-oscar rol-integrador">
+						<img src="img/plan-maestro-02.jpg" alt=""/>
 						<figcaption>
-							<h2>Warm <span>Oscar</span></h2>
-							<p>Oscar is a decent man. He used to clean porches with pleasure.</p>
+							<h2>Rol Integrador</h2>
+							<p><i class="fa fa-refresh fa-4x fa-spin"></i></p>
 							<a href="#">View more</a>
 						</figcaption>			
 					</figure>
+					<figure class="effect-oscar nuevo-barrio">
+						<img src="img/plan-maestro-03.jpg" alt=""/>
+						<figcaption>
+							<h2>Un nuevo barrio para Viña del Mar</h2>
+							<p><i class="fa fa-building-o fa-4x"></i></p>
+							<a href="#">View more</a>
+						</figcaption>			
+					</figure>
+					<figure class="effect-oscar">
+						<img src="img/plan-maestro-04.jpg" alt=""/>
+						<figcaption>
+							<h2>Primer barrio sustentable de Latinoamérica</h2>
+							<p><i class="fa fa-tree fa-4x"></i></p>
+							<a href="#">View more</a>
+						</figcaption>			
+					</figure>
+					<figure class="effect-oscar">
+						<img src="img/plan-maestro-05.jpg" alt=""/>
+						<figcaption>
+							<h2>Consistencia con la identidad de Viña del Mar</h2>
+							<p><i class="fa fa-home fa-4x"></i></p>
+							<a href="#">View more</a>
+						</figcaption>			
+					</figure>
+					<figure class="effect-oscar rol-integrador">
+						<img src="img/plan-maestro-06.jpg" alt=""/>
+						<figcaption>
+							<h2>Mix de usos</h2>
+							<p><i class="fa fa-wrench fa-4x"></i></p>
+							<a href="#">View more</a>
+						</figcaption>			
+					</figure>
+                    
                     
 				</div>
         </div>

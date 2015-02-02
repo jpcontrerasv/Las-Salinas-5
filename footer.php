@@ -51,6 +51,7 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
 	<script defer src="js/jquery.flexslider.js"></script>
+    <script defer src="js/jquery.insetBorderEffect.js"></script>
 	<script src="js/scripts.js"></script>
   </body>
 </html>

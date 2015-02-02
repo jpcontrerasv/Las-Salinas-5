@@ -39,7 +39,7 @@
                     <li><a href="mision-vision.php">Misión / Visión</a></li>
                     <li><a href="#">Nosotros</a></li>
                     <li><a href="equipo.php">Equipo</a></li>
-                    <li><a href="#">Historia</a></li>
+                    <li><a href="historia.php">Historia</a></li>
                 </ul>
             </li>
             <li>
