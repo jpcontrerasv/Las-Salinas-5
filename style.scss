@@ -1057,11 +1057,11 @@ span.punta-der {
 			color:#FFF;
 			background:#AAAAAA;
 			padding:1.9%;
-			@media (max-width: 768px) {
+			@media (max-width: 991px) {
 				padding:4%;
 				height:68%;
 			}
-			@media only screen and (max-device-width: 768px) {
+			@media only screen and (max-device-width: 991px) {
 				padding:4%;
 				height:68%;
 			}
@@ -1085,6 +1085,132 @@ span.punta-der {
 
 }
 //content historia
+
+/*FAQ*/
+#faq {
+	#faq-head {
+		height:328px;
+		@media (max-width: 768px) {
+			height:178px;			
+		}
+		@media only screen and (max-device-width: 768px) {
+			height:178px;			
+		}
+		
+		.titulo-pag {
+			height:100%;
+		}
+		.tit {
+			height:50%!important;
+			background:#c6c6c6;
+			@media (max-width: 768px) {
+				height:100%!important;		
+			}
+			@media only screen and (max-device-width: 768px) {
+				height:100%!important;		
+			}
+			.h1 {
+				height:100%;
+				margin-top:0;
+				margin:10% 0 0 11%;
+				@media (max-width: 768px) {
+					margin:8% 0 0 11%;
+				}
+				@media only screen and (max-device-width: 768px) {
+					margin:8% 0 0 11%;
+				}
+				@media (max-width: 480px) {
+					margin:17% 0 0 11%;
+				}
+				@media only screen and (max-device-width: 480px) {
+					margin:17% 0 0 11%;
+				}
+			}
+		}
+		.img {
+			height:100%;
+			background:url(img/head-faq.jpg) center center no-repeat;
+			@include cover;
+		}
+	}
+	//faq-head
+	.preguntas {
+
+		margin-top:70px;
+		h4, p {
+			color:#434040;
+		}
+		h4, li {
+			margin-bottom:40px;
+		}
+		ul {
+			li {
+				list-style:none;
+				&:first-child {
+					background:url(img/line-top-inv.gif) 0.1% top no-repeat;
+					padding-top:20px;
+				}
+			}
+		}
+	}
+	//preguntas
+}
+//faq
+
+#contacto {
+	.tit {
+		margin-top:50px;
+		img {
+			margin-top:25%;
+			width:100%;
+		}
+	}
+	.form {
+		background:#dcdcdc;
+		color:#434040;
+		margin-top:50px;
+		padding-top:40px;
+		padding-bottom:40px;
+		
+		.control-label {
+			text-transform:uppercase;
+		}
+		textarea {
+			min-height:250px;
+		}
+	}
+	//form
+	.img {
+		img{
+			max-width:100%;
+		}
+	}
+	//img
+
+	.iframe-rwd  {
+		position: relative;
+		padding:30px 0 39.75% 0;
+		height: 250px;
+		overflow: hidden;
+		margin-bottom:20px;
+		@media (max-width: 991px) {
+			margin:20px 0;			
+		}
+		@media only screen and (max-device-width: 991px) {
+			margin:20px 0;	
+		}
+	}
+	.iframe-rwd iframe {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 99%;
+		height: 300px;
+	}
+
+	
+}
+//contacto
 
 footer {
 	.container-flex {

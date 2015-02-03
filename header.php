@@ -37,7 +37,6 @@
                 <a href="#">La Empresa</a>
                 <ul>
                     <li><a href="mision-vision.php">Misión / Visión</a></li>
-                    <li><a href="#">Nosotros</a></li>
                     <li><a href="equipo.php">Equipo</a></li>
                     <li><a href="historia.php">Historia</a></li>
                 </ul>
@@ -51,8 +50,8 @@
                 </ul>
             </li>
             <li><a href="#">Blog</a></li>
-            <li><a href="#">FAQ</a></li>
-            <li><a href="#">Contacto</a></li>
+            <li><a href="faq.php">FAQ</a></li>
+            <li><a href="contacto.php">Contacto</a></li>
         </ul>
                     
         </div>
