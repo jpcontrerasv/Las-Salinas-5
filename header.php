@@ -49,7 +49,7 @@
                     <li><a href="comunidad.php">Comunidades</a></li>
                 </ul>
             </li>
-            <li><a href="#">Blog</a></li>
+            <li><a href="blog.php">Blog</a></li>
             <li><a href="faq.php">FAQ</a></li>
             <li><a href="contacto.php">Contacto</a></li>
         </ul>
