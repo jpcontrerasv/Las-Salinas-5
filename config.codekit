@@ -202,7 +202,7 @@
 		"outputAbbreviatedPath": "\/img\/andres-varela.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/arturo-natho.jpg": {
 		"fileType": 16384,
@@ -400,7 +400,7 @@
 		"outputAbbreviatedPath": "\/img\/gota-1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/gotas-2.png": {
 		"fileType": 32768,
@@ -499,7 +499,7 @@
 		"outputAbbreviatedPath": "\/img\/hoja-png.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/ico-d.png": {
 		"fileType": 32768,
@@ -796,7 +796,7 @@
 		"outputAbbreviatedPath": "\/img\/plan-maestro-01.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/plan-maestro-02.jpg": {
 		"fileType": 16384,
@@ -807,7 +807,7 @@
 		"outputAbbreviatedPath": "\/img\/plan-maestro-02.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/plan-maestro-03.jpg": {
 		"fileType": 16384,
@@ -818,7 +818,7 @@
 		"outputAbbreviatedPath": "\/img\/plan-maestro-03.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/plan-maestro-04.jpg": {
 		"fileType": 16384,
@@ -829,7 +829,7 @@
 		"outputAbbreviatedPath": "\/img\/plan-maestro-04.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/plan-maestro-05.jpg": {
 		"fileType": 16384,
@@ -840,7 +840,7 @@
 		"outputAbbreviatedPath": "\/img\/plan-maestro-05.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/plan-maestro-06.jpg": {
 		"fileType": 16384,
@@ -851,7 +851,7 @@
 		"outputAbbreviatedPath": "\/img\/plan-maestro-06.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/poster-falso.jpg": {
 		"fileType": 16384,
@@ -950,7 +950,7 @@
 		"outputAbbreviatedPath": "\/img\/stephanie-rotella.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/trinidad-figueroa.jpg": {
 		"fileType": 16384,
@@ -1089,53 +1089,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/NiceSimpleContactForm\/contactengine.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/NiceSimpleContactForm\/contactengine.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/NiceSimpleContactForm\/contactthanks.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/NiceSimpleContactForm\/contactthanks.php",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/NiceSimpleContactForm\/images\/stripe.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 166,
-		"inputAbbreviatedPath": "\/NiceSimpleContactForm\/images\/stripe.png",
-		"outputAbbreviatedPath": "\/NiceSimpleContactForm\/images\/stripe.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/NiceSimpleContactForm\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/NiceSimpleContactForm\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/NiceSimpleContactForm\/style.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/NiceSimpleContactForm\/style.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/not-1.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -1209,7 +1162,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Juan Pablo Contreras",
+"lastSavedByUser": "Rod",
 "manualImportLinks": {
 	},
 "projectAttributes": {
@@ -1361,7 +1314,7 @@
 	"coffeeMinifyOutput": 1,
 	"coffeeOutputStyle": 0,
 	"coffeeSyntaxCheckerStyle": 1,
-	"externalServerAddress": "http:\/\/localhost:8888\/lassalinas\/5",
+	"externalServerAddress": "http:\/\/localhost:8888\/Las%20Salinas\/2015\/02%20-%20Las%20Salinas%20Web\/",
 	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
 	"hamlAutoOutputPathEnabled": 1,

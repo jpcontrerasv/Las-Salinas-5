@@ -27,7 +27,7 @@
             </div>
             <div class="col-lg-5 col-md-5 col-sm-5 col-xs-6 txt animated ocultar">
                 <div class="h1"><h1>Arturo Natho Gamboa</h1></div>
-                <p>Gerente general</p>
+                <p>Gerente General</p>
                 <p>Ingeniero Civil Industrial</p>
                 <span class="gota"></span>
             </div>
@@ -91,7 +91,7 @@
                     <h1>Trinidad Figueroa Gostin</h1>
                 </div>
                 <p>Equipo Profesional</p>
-                <p>Ingeniero Civil</p>
+                <p>Ingeniera Civil</p>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 no-column txt txt-rl animated ocultar">
                 <div class="h1">

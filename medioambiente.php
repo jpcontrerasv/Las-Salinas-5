@@ -14,12 +14,12 @@
             <img src="img/img-mision.jpg" alt="">
         </div>
         <div class="clearfix"></div>
-        <div class="col-lg-8 col-md-8 col-sm-12 hidden-xs no-column">
+        <!--<div class="col-lg-8 col-md-8 col-sm-12 hidden-xs no-column">
         	&nbsp;
         </div>
         <div class="col-lg-4 col-md-4 col-sm-12 hidden-xs no-column text-left">
             <img src="img/separador-mision.jpg" alt="">
-        </div>
+        </div> -->
         
         <div class="clearfix"></div>
      </section>
