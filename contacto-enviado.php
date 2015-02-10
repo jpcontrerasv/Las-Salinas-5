@@ -11,9 +11,18 @@
                 </div>
             </div>
         	<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 form">
+            	
                 <form class="form-horizontal" method="post" action="contactengine.php">
                 <fieldset>
                 
+
+                <div class="form-group enviado">
+                  <div class="col-md-12 text-center">
+                  	<br><p><strong>Tu mensaje ha sido envíado</strong></p><br>
+                  </div>
+                </div>
+                <!--gracias-->
+
                 <div class="form-group">
                   <label class="col-md-3 control-label" for="nombre">Nombre</label>  
                   <div class="col-md-8">

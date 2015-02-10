@@ -26,7 +26,7 @@
                     </div>
                     <p>La plaza Victor Civita, en São Paulo, representa un eficiente ejemplo de reconversión de un sitio urbano contaminado y abandonado, especialmente notable por no tener referente anterior alguno en Brasil. La impecable resolución de diseño y el programa cultural-educativo que lo acompaña, ambos comprometidos con el concepto de 
 sustentabilidad, son cualidades que lo particularizan aun más profundamente</p>
-                    <p><a href="#">ver mas</a></p>
+                    <p><a href="not-1.php" class="ver-mas">Ver más</a></p>
                 </div>
             <!--noticia 1-->
                 
@@ -39,7 +39,7 @@ sustentabilidad, son cualidades que lo particularizan aun más profundamente</p>
                         	<h2>Jeff Speck: la ciudad para caminar</h2>
                         </div>
                         <p>Por qué las ciudades deberían ser más pensadas para vivirlas de a pie, exponiendo argumentos que se basan en las experiencias y consejos de economistas, epidemiólogos y ambientalistas con el caso de EE.UU.</p>
-						<p><a href="#">ver mas</a></p>
+						<p><a href="not-2.php" class="ver-mas">Ver más</a></p>
             </div>
             <!--/noticia 2-->
 
@@ -49,7 +49,7 @@ sustentabilidad, son cualidades que lo particularizan aun más profundamente</p>
                         	<h2>PLAN MAESTRO INTEGRADO: Antofagasta Sostenible</h2>
                         </div>
                         <p>Dentro de los objetivos que se propone este trabajo es la elaboración de un plan integral para la ciudad de Antofagasta.</p>
-						<p><a href="#">ver mas</a></p>
+						<p><a href="not-3.php" class="ver-mas">Ver más</a></p>
             </div>
             <!--/noticia 3-->
             <div class="clearfix"></div>
@@ -62,6 +62,7 @@ sustentabilidad, son cualidades que lo particularizan aun más profundamente</p>
                             <h2>Título de noticia</h2>
                         </div>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+                        <p><a href="not-4.php" class="ver-mas">Ver más</a></p>
                     </div>
                 </div>
             </div>
@@ -76,7 +77,7 @@ sustentabilidad, son cualidades que lo particularizan aun más profundamente</p>
                     	<h2>8 Ejemplos de arquitectura sustentable</h2>
                     </div>
                     <p>La arquitectura sustentable, también denominada arquitectura sostenible, arquitectura verde, eco-arquitectura o arquitectura ambientalmente consciente, es un modo de concebir el diseño arquitectónico.</p>
-                    <p><a href="#">ver mas</a></p>
+                    <p><a href="not-5.php" class="ver-mas">Ver más</a></p>
                 </div>
             </div>
             <!--noticia 5--> 
@@ -86,7 +87,7 @@ sustentabilidad, son cualidades que lo particularizan aun más profundamente</p>
             
             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 bloq-6 no-column">
             	<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4 no-column img">
-                	<a href="#"><img src="img/img-bloq-6.jpg" alt=""></a>
+                	<a href="not-6.php"><img src="img/img-bloq-6.jpg" alt=""></a>
                 </div>
                 
             	<div class="col-lg-8 col-md-8 col-sm-8 col-xs-8 no-column">
@@ -101,6 +102,7 @@ sustentabilidad, son cualidades que lo particularizan aun más profundamente</p>
                                         <h2>Título + detalle de noticia</h2>
                                     </div>
                                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit</p>
+                                    <p><a href="#" class="ver-mas">Ver más</a></p>
                                 </div>
                             </div>
                         </div>
@@ -112,6 +114,10 @@ sustentabilidad, son cualidades que lo particularizan aun más profundamente</p>
             
         </div>
         <!--/container-fake 1-->
+        <div class="container-fake text-center loader">
+        	<button>Ver más publicaciones <i class="fa fa-arrow-down"></i></button>
+        </div>
+        
         		 
     </section>
     
