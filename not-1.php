@@ -6,7 +6,7 @@
             	<div id="head-blog">
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 tit no-column">
                     	<div class="h1 blanco">
-                        	<h1>Blog</h1>
+                        	<h1><a href="blog.php" title="Blog">Blog</a></h1>
                         </div>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 txt-gen no-column">
@@ -17,7 +17,7 @@
                 <!--head blog-->
                 
             </div>
-            <!--noticia 1 y head blog--->
+
             <div class="clearfix"></div>
             
             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12 img">

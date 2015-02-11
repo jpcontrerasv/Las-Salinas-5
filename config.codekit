@@ -653,7 +653,7 @@
 		"outputAbbreviatedPath": "\/img\/img-slide-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/img-slide-2.jpg": {
 		"fileType": 16384,
@@ -664,7 +664,7 @@
 		"outputAbbreviatedPath": "\/img\/img-slide-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/img-slide-3.jpg": {
 		"fileType": 16384,
@@ -675,7 +675,7 @@
 		"outputAbbreviatedPath": "\/img\/img-slide-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/img-vision.jpg": {
 		"fileType": 16384,
