@@ -26,7 +26,7 @@
                 <span class="punta punta-der"></span>	
             </div>
             <div class="col-lg-5 col-md-5 col-sm-5 col-xs-6 txt animated ocultar">
-                <div class="h1"><h1>Arturo Natho Gamboa</h1></div>
+                <div class="h1"><h1>Arturo </br>Natho G.</h1></div>
                 <p>Gerente General</p>
                 <p>Ingeniero Civil Industrial</p>
                 <span class="gota"></span>
@@ -50,7 +50,7 @@
                 </div>
                 <div class="box fwidth fleft txt mh animated ocultar">
                 	<div class="h1">
-                    	<h1>Marcela Hassenberg</h1>
+                    	<h1>Marcela </br>Hassenberg F.</h1>
                     </div>
                     <p>Asesor Gerencia General</p>
 					<p>Ingeniero Civil Industrial</p>
@@ -62,7 +62,7 @@
                 </div>
                 <div class="box fwidth fleft rila txt animated ocultar">
                 	<div class="h1">
-                    	<h1>Ricardo Labarca Küpfer</h1>
+                    	<h1>Ricardo </br>Labarca K.</h1>
                     </div>
                     <p>Gerente de Desarrollo</p>
 					<p>Arquitecto</p>
@@ -88,14 +88,14 @@
         <div id="equipo-4" class="container-fake">
             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 no-column txt txt-tf animated ocultar">
                 <div class="h1">
-                    <h1>Trinidad Figueroa Gostin</h1>
+                    <h1>Trinidad </br>Figueroa G.</h1>
                 </div>
                 <p>Equipo Profesional</p>
                 <p>Ingeniera Industrial</p>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 no-column txt txt-rl animated ocultar">
                 <div class="h1">
-                    <h1>Ricardo Labarca Alcaíno</h1>
+                    <h1>Ricardo </br>Labarca A.</h1>
                 </div>
                 <p>Equipo Profesional</p>
                 <p>Ingeniero en Obras Civiles</p>
@@ -114,14 +114,14 @@
             </div>
             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 no-column txt steph animated ocultar">
                 <div class="h1">
-                    <h1>Stephanie Rotella Macchiavello</h1>
+                    <h1>Stephanie </br>Rotella M.</h1>
                 </div>
                 <p>Equipo Profesional</p>
                 <p>Ingeniero Civil Industrial</p>
             </div>
             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 no-column txt andvar animated ocultar">
                 <div class="h1">
-                    <h1>Andrés Varela Guzmán</h1>
+                    <h1>Andrés </br>Varela G.</h1>
                 </div>
                 <p>Equipo Profesional</p>
                 <p>Ingeniero Civil Industrial</p>

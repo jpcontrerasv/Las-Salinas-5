@@ -1,17 +1,25 @@
 .toggleMenu {
     display:  none;
-    background: #666;
-    padding: 10px 15px;
-    color: #fff;
+    background: transparent;
+    padding: 15px 15px;
 	text-align:center;
 	width:100%;
+    font-weight: bold;
+}
+.toggleMenu, .toggleMenu:hover, .toggleMenu:visited, .toggleMenu:focus {
+    color: #656568;
+    font-size:1.2em;
+    text-decoration: none;
 }
 #nav-menu {
     list-style: none;
 	font-size:1.2em;
      *zoom: 1;
-     background:#6d6e6f;
+     background: transparent;
 	font-family:"proxima-nova";	 
+    margin: 0 auto;
+    position: relative;
+    display: table;
 }
 #nav-menu:before,
 #nav-menu:after {
@@ -23,11 +31,12 @@
 }
 #nav-menu ul {
     list-style: none;
-    width: 9em;
+    width: 11em;
 }
 #nav-menu a {
     padding: 10px 20px;
-    color:#fff;
+    color:#5b5b5f;
+    font-weight: bold;
 }
 
 #nav-menu li {
