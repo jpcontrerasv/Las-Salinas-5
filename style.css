@@ -28,6 +28,13 @@ body {
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility !important; }
 
+html, body.index {
+  height: 100%; }
+
+body.index {
+  overflow: hidden;
+  background: url(img/menu-superior.jpg) top center repeat; }
+
 .box {
   display: block;
   height: auto;
@@ -90,17 +97,18 @@ span.gota {
       display: none; } }
 
 header {
-  background: url(img/menu-superior.jpg) top center no-repeat; }
+  width: 100%;
+  background: url(img/menu-superior.jpg) top center repeat; }
   header span.gota {
     top: -20px;
     left: 95%; }
   header .logotipo a {
-    margin: 23px 0 15px 0;
+    margin: 19px 0 15px 0;
     padding: 0;
     display: block;
     text-align: center; }
   header .logotipo img {
-    width: 80%; }
+    width: 90%; }
   header #logo-head {
     background: #FFF;
     padding: 5px 0;
@@ -125,21 +133,41 @@ header {
         header #logo-head img {
           height: 100px; } }
 
-#slider-home span.hoja {
-  display: block;
-  width: 200px;
-  height: 123px;
-  background: url(img/hoja-png.png) center center no-repeat;
-  position: absolute;
-  top: -70px;
-  right: 20px;
-  z-index: 99; }
-  @media (max-width: 990px) {
-    #slider-home span.hoja {
-      display: none; } }
-  @media only screen and (max-device-width: 990px) {
-    #slider-home span.hoja {
-      display: none; } }
+header#index {
+  height: 10.8%; }
+
+#slider-home {
+  height: 89.2%;
+  background: url(img/menu-superior.jpg) center center repeat; }
+  #slider-home span.hoja {
+    display: block;
+    width: 200px;
+    height: 123px;
+    background: url(img/hoja-png.png) center center no-repeat;
+    position: absolute;
+    top: -70px;
+    right: 20px;
+    z-index: 99; }
+    @media (max-width: 990px) {
+      #slider-home span.hoja {
+        display: none; } }
+    @media only screen and (max-device-width: 990px) {
+      #slider-home span.hoja {
+        display: none; } }
+  #slider-home .flex-viewport {
+    height: 100%; }
+  #slider-home ul.slides {
+    height: 100%; }
+    #slider-home ul.slides li {
+      height: 100%; }
+      #slider-home ul.slides li .table-cell {
+        background: rgba(0, 0, 0, 0.3);
+        vertical-align: middle;
+        padding: 0 15%; }
+      #slider-home ul.slides li h1, #slider-home ul.slides li p {
+        color: #FFF; }
+      #slider-home ul.slides li p {
+        width: 75%; }
 
 #main .img-footer-home img {
   max-width: 100%;

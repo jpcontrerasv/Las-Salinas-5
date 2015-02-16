@@ -38,6 +38,14 @@ body {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;	
 	text-rendering: optimizeLegibility !important;
+	
+}
+html, body.index {
+	height:100%;
+}
+body.index {
+	overflow:hidden;
+	background: url(img/menu-superior.jpg) top center repeat;
 }
 .box {
 	display: block;
@@ -125,20 +133,21 @@ span.gota {
 }
 
 header {
-	background: url(img/menu-superior.jpg) top center no-repeat;
+	width:100%;
+	background: url(img/menu-superior.jpg) top center repeat;
 	span.gota {
 		top: -20px;
 		left: 95%;
 	}
 	.logotipo {
 		a {
-			margin: 23px 0 15px 0;
+			margin: 19px 0 15px 0;
 			padding: 0;
 			display: block;
 			text-align: center;
 		}
 		img {
-			width: 80%;
+			width: 90%;
 
 		}
 	}
@@ -172,8 +181,14 @@ header {
 	}
 	
 }
+header#index {
+	height:10.8%;
+}
 
 #slider-home {
+	height:89.2%;
+	background: url(img/menu-superior.jpg) center center repeat;
+	
 	span.hoja {
 		display:block;
 		width:200px;
@@ -192,6 +207,27 @@ header {
 		}
 		
 	}
+	.flex-viewport {
+		height:100%;
+	}
+	ul.slides {
+		height:100%;
+		li {
+			height:100%;
+			.table-cell {
+				background:rgba(0,0,0,.3);
+				vertical-align:middle;
+				padding:0 15%;
+			}
+			h1, p {
+				color:#FFF;
+			}
+			p{
+				width:75%;
+			}
+		}
+	}
+		
 }
 #main {
 	.img-footer-home img{
