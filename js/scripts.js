@@ -238,11 +238,6 @@ $(window).load(function(){
 });
 
 
-/*$(".cont").click(function(){
- $(this).toggleClass("rotator")  ; 
-});*/
-
-
 if (Modernizr.touch) { 
 	$(".cont").click(function(){
 	 $(this).toggleClass("rotator")  ; 
