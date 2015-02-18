@@ -20,8 +20,6 @@ $(".cerrar-6").click(function(){$('.overlaypm-6').hide();});
 
 
 
-
-
 var ww = document.body.clientWidth;
 $(document).ready(function() {
 	$("#nav-menu li a").each(function() {
@@ -239,6 +237,23 @@ $(window).load(function(){
 	
 });
 
+
+/*$(".cont").click(function(){
+ $(this).toggleClass("rotator")  ; 
+});*/
+
+
+if (Modernizr.touch) { 
+	$(".cont").click(function(){
+	 $(this).toggleClass("rotator")  ; 
+	});
+} else { 
+	$('.cont').mouseenter(function(){
+		$(this).toggleClass("rotator")
+	}).mouseleave(function(){
+		$(this).toggleClass("rotator")
+	});
+}
 
 
 	

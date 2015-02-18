@@ -22,6 +22,8 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
       <![endif]-->
+      
+      <script src="js/modernizr.js"></script>
       <script src="//use.typekit.net/jnr4qqs.js"></script>
       <script>try{Typekit.load();}catch(e){}</script>
   </head>

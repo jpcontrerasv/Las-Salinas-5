@@ -1,0 +1,1 @@
+$(".flip").click(function(){return $(this).find(".card").addClass("flipped").mouseleave(function(){$(this).removeClass("flipped")}),!1});
