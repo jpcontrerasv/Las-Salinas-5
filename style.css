@@ -1291,7 +1291,10 @@ footer {
   -moz-transform: rotateY(180deg);
   -ms-transform: rotateY(180deg);
   -o-transform: rotateY(180deg);
-  background: #666; }
+  background: #FFF; }
+  .info p {
+    font-size: 1em;
+    color: #89878c; }
 
 .rotator {
   width: 30%;
@@ -1322,7 +1325,7 @@ footer {
   -ms-backface-visibility: hidden;
   -o-backface-visibility: hidden;
   z-index: -1;
-  background: #666; }
+  background: #FFF; }
 
 @media (max-width: 1397px) {
   .cont, .rotator {

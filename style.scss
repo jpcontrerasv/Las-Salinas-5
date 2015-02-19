@@ -1621,7 +1621,11 @@ footer {
 	height: 369px;
 	z-index: -2;
 	@include rotateY180;
-	background:#666;   
+	background:#FFF;   
+	p {
+		font-size:$em-1;
+		color: #89878c;
+	}
 }
 .rotator{
 	width:30%;   
@@ -1636,7 +1640,7 @@ footer {
 	@include rotateY0;
 	@include visibility-hidden;
 	z-index: -1;
-	background:#666;   
+	background:#FFF;   
 }
 .cont, .rotator {
 	@media (max-width: 1397px) {

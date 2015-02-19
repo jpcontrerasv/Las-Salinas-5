@@ -37,7 +37,7 @@
                 <div class="info text-center"> 
                 	<div class="table">
                     	<div class="table-cell">
-                        	<p>El terreno de Las Salinas está destinado a jugar un rol integrador para Viña del Mar, a través del corredor Viña-Concón y desde el cerro hacia el borde costero. A través de soluciones urbanísticas de vanguardia, el Plan Maestro sentará las bases para la integración del proyecto con su entorno.</p>
+                        	<p>El Plan Maestro es una herramienta estructurante que contendrá los lineamientos, especificaciones y estándares para los espacios residenciales, comerciales, de entretenimiento y públicos contemplados para el terreno de Las Salinas.</p>
                         </div>
                     </div>
                 </div>
@@ -56,7 +56,7 @@
                 <div class="info text-center"> 
                 	<div class="table">
                     	<div class="table-cell">
-                        	<p>El terreno de Las Salinas está destinado a jugar un rol integrador para Viña del Mar, a través del corredor Viña-Concón y desde el cerro hacia el borde costero. A través de soluciones urbanísticas de vanguardia, el Plan Maestro sentará las bases para la integración del proyecto con su entorno.</p>
+                        	<p>El terreno de Las Salinas está destinado a jugar un rol integrador para Viña del Mar, a través del corredor Viña-Concón y desde el cerro hacia el borde costero. A través de soluciones urbanísticas de vanguardia, el Plan Maestro sentará las bases para la integración del proyecto con su entorno..</p>
                         </div>
                     </div>
                 </div>
@@ -75,7 +75,7 @@
                 <div class="info text-center"> 
                 	<div class="table">
                     	<div class="table-cell">
-                        	<p>El terreno de Las Salinas está destinado a jugar un rol integrador para Viña del Mar, a través del corredor Viña-Concón y desde el cerro hacia el borde costero. A través de soluciones urbanísticas de vanguardia, el Plan Maestro sentará las bases para la integración del proyecto con su entorno.</p>
+                        	<p>La noción de "barrio" constituye un concepto inspirador del Plan Maestro. A diferencia de otras iniciativas inmobiliarias  desarrolladas en grandes terrenos,  en Las Salinas se construirá un barrio abierto, integrado, que agregará valor a los sectores aledaños y mejorará la calidad de vida de sus habitantes. En este marco, Las Salinas busca contribuir al potenciamiento de Viña del Mar como cabecera del turismo en el Pacífico Sur, aportando con un polo urbano que contará con infraestructura de primer nivel..</p>
                         </div>
                     </div>
                 </div>
@@ -95,7 +95,7 @@
                 <div class="info text-center"> 
                 	<div class="table">
                     	<div class="table-cell">
-                        	<p>El terreno de Las Salinas está destinado a jugar un rol integrador para Viña del Mar, a través del corredor Viña-Concón y desde el cerro hacia el borde costero. A través de soluciones urbanísticas de vanguardia, el Plan Maestro sentará las bases para la integración del proyecto con su entorno.</p>
+                        	<p>El Plan Maestro propone un sistema urbano donde se optimizan las  condiciones para el desarrollo de las personas, en armonía con el medio ambiente. Para ello se están estudiando experiencias internacionales en la materia y definiendo los estándares para la certificación medioambiental del proyecto y con ello alcanzar la categoría de primer barrio sustentable de Chile..</p>
                         </div>
                     </div>
                 </div>
@@ -107,7 +107,7 @@
             	<div class="image imagen-5">
                 	<div class="table">
                     	<div class="table-cell text-center">
-                        	<h2>Consistencia con la identidad de Viña del mar</h2>
+                        	<h2>Consistente con la identidad de Viña del mar</h2>
                             <i class="fa fa-home fa-4x fa-inverse"></i>
                         </div>
                     </div>
@@ -116,7 +116,7 @@
                 <div class="info text-center"> 
                 	<div class="table">
                     	<div class="table-cell">
-                        	<p>El terreno de Las Salinas está destinado a jugar un rol integrador para Viña del Mar, a través del corredor Viña-Concón y desde el cerro hacia el borde costero. A través de soluciones urbanísticas de vanguardia, el Plan Maestro sentará las bases para la integración del proyecto con su entorno.</p>
+                        	<p>Uno de los objetivos centrales del Plan Maestro es contribuir a que Viña del Mar mantenga su identidad como "ciudad jardín". Con este fin, el equipo a cargo trabajó arduamente para conocer los elementos clave de la cultura e identidad viñamarina e incorporarlos al diseño urbano. Así, se  interactuó con vecinos, personeros y autoridades  relevantes de la ciudad y  expertos en historia </p>
                         </div>
                     </div>
                 </div>
@@ -138,7 +138,7 @@
                 <div class="info text-center"> 
                 	<div class="table">
                     	<div class="table-cell">
-                        	<p>El terreno de Las Salinas está destinado a jugar un rol integrador para Viña del Mar, a través del corredor Viña-Concón y desde el cerro hacia el borde costero. A través de soluciones urbanísticas de vanguardia, el Plan Maestro sentará las bases para la integración del proyecto con su entorno.</p>
+                        	<p>El Plan Maestro contempla un mix de usos donde lo público y lo privado se relacionan armónicamente, agregando valor a Viña del Mar y su gente. Esto se traducirá en áreas verdes, viviendas, hoteles, comercio y equipamiento, considerando también condiciones  de conectividad, accesibilidad y cercanía a servicios primarios y secundarios.</p>
                         </div>
                     </div>
                 </div>
